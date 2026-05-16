@@ -66,7 +66,7 @@ npm run dev
 
 
 GitHub:
-https://github.com/palak700
+https://github.com/palak700\\\\\this is only fronntent code this side i add backend later
 
 ---
 

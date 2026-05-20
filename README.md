@@ -50,20 +50,6 @@ Move into the project folder:
 cd healthcare-ai
 ```
 
-Install dependencies:
-
-```bash
-npm install
-```
-
-Run the development server:
-
-```bash
-npm run dev
-```
-
----
-
 
 GitHub:
 https://github.com/palak700
